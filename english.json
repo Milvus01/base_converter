@@ -1,0 +1,29 @@
+{
+	"language":"en",
+	"welcome":"Welcome in base_converter.\nPlease read the instructions and navigate in menus by answer the questions.\n",
+	"global menu":{
+		"title":"Global menu",
+		"items":["Quit", "Convert", "Configure"]
+	},
+	"convert_menu":{
+		"title":"Convert menu",
+		"items":["Quit", "Back", "Hex", "Dec", "Bin", "ASCII"]
+	},
+	"config_menu":{
+		"title":"Configuration menu",
+		"items":["Quit", "Back", "Change language", "Change separator"]
+	},
+	"err_number":"ERROR please enter a valid number",
+	"pause":"Press enter to continue...",
+	"not_implemented":"This function has not yet been implemated, please wait for future versions...",
+	"input_numbers":["Please enter", "separated by"],
+	"spaces":"spaces",
+	"err_input":"ERROR during input",
+	"hex_input":"hexadecimal numbers (between 00 and ff)",
+	"dec_input":"decimal numbers (between 0 and 255)",
+	"bin_input":"binary numbers (between 00000000 and 11111111)",
+	"ascii_input":"Please enter text.",
+	"separator_input":"Please enter a single character (if you enter several only the first will be considered)",
+	"err_separator":"You have not enter a character.",
+	"err_separator_nb":["You have enter", "and you can't use it because it is a number (include hexadecimal)"],
+}
